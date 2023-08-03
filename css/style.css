@@ -1,4 +1,75 @@
+.presentation__detenteur {
+  font-weight: bold;
+  font-size: 48px;
+}
 
+h1 {
+  text-align: center;
+  background-color: black;
+  text-shadow: 5px 5px white;
+  height: 200px;
+}
+
+.sujets__Liste {
+  font-size: 18px;
+  font-style: italic;
+  text-decoration: underline;
+  color: rgb(150, 200, 50);
+}
+
+.presentation {
+  background-image: url(../image/Fond_montagne_04.jpg);
+}
+
+.photo p {
+  color: rgba(150, 200, 50, 0.5);
+}
+
+.photo__ex {
+  color: red;
+}
+
+/*#super{
+        color: aqua;
+    }
+*/
+.border {
+  border-top: 5px solid red;
+  border-radius: 15px;
+  box-shadow: 5px 5px 5px 5px gray;
+  border: 15px;
+}
+
+.box__1 {
+  height: 150px;
+  width: 150px;
+  background-color: magenta;
+}
+.box__2 {
+  height: 150px;
+  width: 150px;
+  background-color: maroon;
+}
+.box__3 {
+  height: 150px;
+  width: 150px;
+  background-color: orangered;
+}
+
+.carre__1 {
+  height: 150px;
+  width: 250px;
+  background-color: green;
+}
+.carre__2 {
+  height: 150px;
+  width: 250px;
+  background-color: yellow;
+}
+.carre__3 {
+  height: 150px;
+  width: 250px;
+  background-color: black;
+}
 
 /*# sourceMappingURL=style.css.map */
-
